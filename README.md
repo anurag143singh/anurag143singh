@@ -178,6 +178,25 @@ ESP32 · sensors · telemetry · emergency logic · Blynk · relay · servo · f
   <img src="https://streak-stats.demolab.com?user=anurag143singh&theme=tokyonight&hide_border=true&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF" alt="Anurag's GitHub contribution streak" />
 </div>
 
+
+---
+
+## 🐍 Live contribution trail
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anurag143singh/anurag143singh/output/github-contribution-grid-snake-neon.svg" alt="Animated GitHub contribution snake" width="100%" />
+</div>
+
+<details>
+<summary><b>🗺️ Open the real LPG system visual</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anurag143singh/LPG-Security-System/main/docs/LPG_FINAL_SYSTEM.png" alt="LPG Security System circuit and architecture visual" width="100%" />
+</p>
+
+</details>
+
 ---
 
 <div align="center">
